@@ -1,0 +1,35 @@
+## 家里小米局域网
+192.168.31.2	esxi.xiaomi.local	vmware-esxi.xiaomi.local
+192.168.31.85	node-rpi.esxi.xiaomi.local
+192.168.31.86	node-rpi-wifi.esxi.xiaomi.local
+192.168.31.201  node-01.esxi.xiaomi.local
+192.168.31.202  node-02.esxi.xiaomi.local
+192.168.31.203  node-03.esxi.xiaomi.local
+192.168.31.204  node-04.esxi.xiaomi.local
+192.168.31.205  node-05.esxi.xiaomi.local
+192.168.31.210  node-10.esxi.xiaomi.local
+192.168.31.211  node-11.esxi.xiaomi.local
+192.168.31.212  node-12.esxi.xiaomi.local
+192.168.31.213  node-13.esxi.xiaomi.local
+
+192.168.31.201	openvpn-monitor.esxi.xiaomi.local
+192.168.31.201	grafana.esxi.xiaomi.local
+192.168.31.201	nacos-01.esxi.xiaomi.local
+192.168.31.201	nacos-02.esxi.xiaomi.local
+192.168.31.201	elasticsearch-7.esxi.xiaomi.local
+192.168.31.201	kibana-7.esxi.xiaomi.local
+192.168.31.201	minio.esxi.xiaomi.local
+192.168.31.201	skywalking-ui.esxi.xiaomi.local
+192.168.31.201	kubesphere.esxi.xiaomi.local
+192.168.31.201	kubesphere-jenkins.esxi.xiaomi.local
+192.168.31.201	kubesphere-prometheus.esxi.xiaomi.local
+192.168.31.201	kiali.esxi.xiaomi.local
+192.168.31.201	rabbitmq.esxi.xiaomi.local
+192.168.31.201	equipment.esxi.xiaomi.local
+192.168.31.201	card.esxi.xiaomi.local
+192.168.31.201	synology-nas.esxi.xiaomi.local
+192.168.31.201	nexus.esxi.xiaomi.local
+192.168.31.201	xxl-job.esxi.xiaomi.local
+192.168.31.201	apollo-portal.esxi.xiaomi.local
+192.168.31.201	nginx-vts-status.esxi.xiaomi.local
+192.168.31.201	nginx-sts-status.esxi.xiaomi.local
